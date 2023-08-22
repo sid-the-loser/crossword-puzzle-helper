@@ -1,6 +1,6 @@
 # crossword-puzzle-helper
 
-## HOw to use it?
+## How to use it?
 Run the program. (more documentation to be added soon! i'm calling my gf, sorry...)
 
 ## Sources
